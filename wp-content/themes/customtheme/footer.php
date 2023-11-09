@@ -7,7 +7,7 @@
                     <!-- footer-two wrapper -->
                     <div class="footer-two-main-wrapper">
                         <a href="#" class="logo">
-                            <img src="assets/images/logo/01.svg" alt="logo">
+                            <img src=" <?php echo get_template_directory_uri(); ?> /assets/images/logo/01.svg" alt="logo">
                         </a>
                         <!-- social style two -->
                         <ul class="social-style-two-wrapper social-anim">
@@ -138,7 +138,7 @@
         <!-- inner menu area desktop start -->
         <div class="inner-main-wrapper-desk">
             <div class="thumbnail">
-                <img src="assets/images/logo/01.svg" alt="Innovate">
+                <img src=" <?php echo get_template_directory_uri(); ?> /assets/images/logo/01.svg" alt="Innovate">
             </div>
             <div class="inner-content">
                 <p class="disc">

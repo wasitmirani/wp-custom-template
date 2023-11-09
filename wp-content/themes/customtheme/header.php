@@ -10,10 +10,12 @@
     <!-- Template Css  -->
     <?php wp_head(); ?>
 </head>
+<body class="index-two">
+
     <!-- header style two start -->
     <header class="header-style-two header--sticky">
         <div class="header-wrapper-main">
-            <a href="index-two.html" class="logo">
+            <a href="<?php home_url() ?>" class="logo">
                <h2 class="text-primary"><?php bloginfo( 'name' ); ?></h2> 
                 <!-- <img src="<?php echo get_template_directory_uri(); ?> /assets/images/logo/03.svg" alt="logo"> -->
             </a>
@@ -46,4 +48,44 @@
         </div>
     </header>
     <!-- header style two end -->
+
+
+    <?php 
+    $page_id = get_the_ID();
+    $page_name = get_the_title();
+    $page_name=empty($page_name) ? '404' : $page_name;
+    
+    $page_url = empty($page_id) ? '/'  :  get_permalink( $page_id);
+ 
+ 
+    ?>
+    
+<?php   
+$page_id = get_the_ID();
+
+if($page_id !=1 )
+{
+
+
+?>
+
+    <div class="breadcrumb-area-bg bg_image">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bread-crumb-area-inner">
+                        <div class="breadcrumb-top">
+                            <a href="/">Home</a> /
+                            <a class="active" href="<?php echo$page_url ?> "><?php echo $page_name ?></a>
+        
+                        </div>
+                        <div class="bottom-title">
+                            <h1 class="title"><?php echo $page_name ?></h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php } ?>
 
