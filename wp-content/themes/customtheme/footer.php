@@ -6,8 +6,9 @@
                 <div class="col-lg-4">
                     <!-- footer-two wrapper -->
                     <div class="footer-two-main-wrapper">
-                        <a href="#" class="logo">
-                            <img src=" <?php echo get_template_directory_uri(); ?> /assets/images/logo/01.svg" alt="logo">
+                        <a href="/" class="logo">
+                        <h2 class="text-primary"><?php bloginfo( 'name' ); ?></h2> 
+                            
                         </a>
                         <!-- social style two -->
                         <ul class="social-style-two-wrapper social-anim">
@@ -26,16 +27,16 @@
                         <div class="single-footer-wized">
                             <div class="location-information">
                                 <div class="location">
-                                    <p>1058 Helton Ave, Stky <br>
-                                        Berlin, Germany</p>
+                                    <p>Kaivokselantie 5 A 22,<br>
+                                    01610 Vanta</p>
                                 </div>
                                 <div class="contact-call">
-                                    <a href="#">+23 5825-32535</a>
-                                    <span>Call us for support</span>
+                                <a href="Tel:+3580451608131">+3580451608131</a>
+                                    <span>Soita meille tukeaksesi</span>
                                 </div>
                                 <div class="contact-call">
-                                    <a href="#">inno@gmail.com</a>
-                                    <span>Email us for query</span>
+                                    <a href="#">digitaalinenstailaus@gmail.com</a>
+                                    <span>Lähetä meille sähköpostia kyselyä varten</span>
                                 </div>
                             </div>
 

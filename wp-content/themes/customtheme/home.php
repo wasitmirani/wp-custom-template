@@ -336,7 +336,7 @@
                                 <i class="fa-solid fa-phone"></i>
                                 <div class="information">
                                     <span>Soita meille 24/7</span>
-                                    <a href="Tel:+3580451608131">+236-3256.21456</a>
+                                    <a href="Tel:+3580451608131">+3580451608131</a>
                                 </div>
                             </div>
                         </div>
