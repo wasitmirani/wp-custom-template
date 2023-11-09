@@ -65,10 +65,7 @@ $page_id = get_the_ID();
 
 if($page_id !=1 )
 {
-
-
 ?>
-
     <div class="breadcrumb-area-bg bg_image">
         <div class="container">
             <div class="row">

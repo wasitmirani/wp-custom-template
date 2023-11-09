@@ -22,7 +22,7 @@
                                             Tietokone tuottaa hetkessä virtuaalistailattuja
                                             kuvia joista pääset valitsemaan parhaimman
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">Recent Project <i class="fa-regular fa-arrow-right"></i></a>
+                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border"> Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
                                     </div>
                                     <!-- banner content two inner area end -->
                                 </div>
@@ -39,16 +39,18 @@
                                 <div class="col-lg-12">
                                     <!-- banner content two inner area start -->
                                     <div class="banner-inner-content-wrapper">
-                                        <span class="pre-title">Best Interior Design </span>
+                                        <span class="pre-title">Paras sisustussuunnittelu </span>
                                         <h1 class="title">
-                                            Building <span>Awesome</span> <br>
-                                            Interiors Vision
+                                           Rakennus <span>Mahtava</span> <br>
+                                           Sisätilojen visio
                                         </h1>
                                         <p class="disc">
-                                            We believe that a well-designed space has the power to transform lives, evoke in emotions,
-                                            and enhance experiences. Our team of talented designers.
+                                            Uskomme, että hyvin suunnitellulla tilalla on voima muuttaa elämää, herättää tunteita,
+                                            ja lisää kokemuksia. Tiimimme lahjakkaita suunnittelijoita.
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">Recent Project <i class="fa-regular fa-arrow-right"></i></a>
+                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">
+                                            Aloita stailaus <i class="fa-regular fa-arrow-right"></i>
+                                        </a>
                                     </div>
                                     <!-- banner content two inner area end -->
                                 </div>
@@ -65,16 +67,17 @@
                                 <div class="col-lg-12">
                                     <!-- banner content two inner area start -->
                                     <div class="banner-inner-content-wrapper">
-                                        <span class="pre-title">Best Interior Design </span>
+                                        <span class="pre-title">Paras sisustussuunnittelu </span>
                                         <h1 class="title">
-                                            Decorate <span>Beautiful</span> <br>
-                                            Living Room
+                                        Koristella <span>Kaunis</span> <br>
+                                            
+                                            Olohuone
                                         </h1>
                                         <p class="disc">
-                                            We believe that a well-designed space has the power to transform lives, evoke in emotions,
-                                            and enhance experiences. Our team of talented designers.
+                                              Uskomme, että hyvin suunnitellulla tilalla on voima muuttaa elämää, herättää tunteita,
+                                            ja lisää kokemuksia. Tiimimme lahjakkaita suunnittelijoita.
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">Recent Project <i class="fa-regular fa-arrow-right"></i></a>
+                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
                                     </div>
                                     <!-- banner content two inner area end -->
                                 </div>
@@ -95,8 +98,8 @@
                             <div class="single-item">
                                 <span class="number">01</span>
                                 <div class="inner">
-                                    <span class="pre">Interior design</span>
-                                    <h6 class="title">modern office</h6>
+                                    <span class="pre">Sisustussuunnittelu</span>
+                                    <h6 class="title">moderni toimisto</h6>
                                 </div>
                             </div>
                             <!-- single item end -->
@@ -106,8 +109,8 @@
                             <div class="single-item">
                                 <span class="number">02</span>
                                 <div class="inner">
-                                    <span class="pre">Interior design</span>
-                                    <h6 class="title">luxury kitchen</h6>
+                                    <span class="pre">Sisustussuunnittelu</span>
+                                    <h6 class="title">ylellinen keittiö</h6>
                                 </div>
                             </div>
                             <!-- single item end -->
@@ -117,8 +120,8 @@
                             <div class="single-item">
                                 <span class="number">03</span>
                                 <div class="inner">
-                                    <span class="pre">Interior design</span>
-                                    <h6 class="title">Living Room</h6>
+                                    <span class="pre">Sisustussuunnittelu</span>
+                                    <h6 class="title">Olohuone</h6>
                                 </div>
                             </div>
                             <!-- single item end -->
@@ -138,19 +141,19 @@
                     <div class="title-area-multiple-elements">
                         <div class="title-left-style-two">
                             <div class="pre-title">
-                                <span class="pre-title">Services</span>
+                                <span class="pre-title">Palvelut</span>
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/02.png" alt="service">
                             </div>
                             <h2 class="title">
-                                Comprehensive Interior <br>
-                                Design Services
+                                 Näin Kaupax toimii<br>
+                                
                             </h2>
                         </div>
-                        <p class="disc">
+                        <!-- <p class="disc">
                             Welcome to our interior design services, where we specialize in transforming spaces into
                             stunning, functional of services.
                         </p>
-                        <a href="#" class="view-servce-btn">View All Services <i class="fa-thin fa-chevron-right"></i></a>
+                        <a href="#" class="view-servce-btn">View All Services <i class="fa-thin fa-chevron-right"></i></a> -->
                     </div>
                     <!-- title area multiple elements end -->
                 </div>
@@ -159,7 +162,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <!-- ingle srevice area start -->
                     <div class="singe-serice-style-two">
-                        <a href="service-details.html" class="thumbnail">
+                        <a href="#" class="thumbnail">
                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/03.jpg" alt="service">
                         </a>
                         <div class="body">
@@ -184,11 +187,10 @@
                                 </div>
                                 <div class="inner">
                                     <a href="service-details.html">
-                                        <h6 class="title">Space Planning</h6>
+                                        <h6 class="title">Valitse sopiva kuva</h6>
                                     </a>
-                                    <p class="disc">Space planning is a fundamental aspect off interior design that
-                                        focuses on arranging.</p>
-                                    <a href="service-details.html" class="arrow-btn-read-more">Read More <i class="fa-thin fa-chevron-right"></i></a>
+                                    <p class="disc">Valitse kuva, jossa ei ole toinen seinä ylivaloittunut parhaan lopputuloksen saavuttamiseksi.</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -198,7 +200,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <!-- ingle srevice area start -->
                     <div class="singe-serice-style-two">
-                        <a href="service-details.html" class="thumbnail">
+                        <a href="#" class="thumbnail">
                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/04.jpg" alt="service">
                         </a>
                         <div class="body">
@@ -242,12 +244,11 @@
                                     <span>02</span>
                                 </div>
                                 <div class="inner">
-                                    <a href="service-details.html">
-                                        <h6 class="title">Interior Design</h6>
+                                    <a href="#">
+                                        <h6 class="title">Valitse paras vaihtoehto</h6>
                                     </a>
-                                    <p class="disc">Space planning is a fundamental aspect off interior design that
-                                        focuses on arranging.</p>
-                                    <a href="service-details.html" class="arrow-btn-read-more">Read More <i class="fa-thin fa-chevron-right"></i></a>
+                                    <p class="disc">Voit renderöidä useampia vaihtoehtoja ja valita juuri sinun mielestäsi parhaan vaihtoehdon</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -257,7 +258,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <!-- ingle srevice area start -->
                     <div class="singe-serice-style-two">
-                        <a href="service-details.html" class="thumbnail">
+                        <a href="#" class="thumbnail">
                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/05.jpg" alt="service">
                         </a>
                         <div class="body">
@@ -273,12 +274,11 @@
                                     <span>03</span>
                                 </div>
                                 <div class="inner">
-                                    <a href="service-details.html">
-                                        <h6 class="title">Remodeling Services</h6>
+                                    <a href="#">
+                                        <h6 class="title">Nopea toimitus</h6>
                                     </a>
-                                    <p class="disc">Space planning is a fundamental aspect off interior design that
-                                        focuses on arranging.</p>
-                                    <a href="service-details.html" class="arrow-btn-read-more">Read More <i class="fa-thin fa-chevron-right"></i></a>
+                                    <p class="disc">Enään ei tarvitse odotella, että kuva on valmis. Palvelusta saat valmiita kuvia alle minuutissa</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -303,28 +303,28 @@
                     <div class="about-inner-two-wrapper">
                         <div class="title-left-style-two">
                             <div class="pre-title">
-                                <span class="pre-title">About US</span>
+                                <span class="pre-title">Virtuaalinen Stailaus</span>
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/02.png" alt="service">
                             </div>
                             <h2 class="title quote">
-                                About Our Passion <br>
-                                for Interior Design
+                            Miksi valita   <br>
+                            Virtuaalinen
+                            Stailaus?
                             </h2>
                         </div>
                         <p class="disc">
-                            We believe that a well-designed space can have a profound impact on your well-being and
-                            quality of life. Whether it's your home, office, or any other interior environment.
+                        Välittömiä tuloksia: Toimitus jopa minuutissa Edullisempi hinta: Saa kuvat jopa yli 10x halvemmalla Parempi valikoima: Voit valita mielestäsi sopivan kuvan. 
                         </p>
                         <div class="about-in-image rts-reveal-one">
-                            <img class="rts-reveal-image-one" src="assets/images/about/04.jpg" alt="about">
+                            <img class="rts-reveal-image-one" src="<?php echo get_template_directory_uri(); ?> /assets/images/about/04.jpg" alt="about">
                         </div>
                         <div class="bottom-image-title mt--20">
                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/05.png" alt="shape">
-                            <span>“Creating Design Timeless Interiors”</span>
+                            <span>“Suunnittele ajatonta sisustusta”</span>
                         </div>
                         <!-- about short contact area start -->
                         <div class="about-short-contact-area mt--50">
-                            <a href="about.html" class="rts-btn btn-border">Read More <i class="fa-regular fa-arrow-right"></i></a>
+                            <!-- <a href="about.html" class="rts-btn btn-border">Read More <i class="fa-regular fa-arrow-right"></i></a> -->
                             <div class="contact-information">
                                 <i class="fa-solid fa-phone"></i>
                                 <div class="information">
