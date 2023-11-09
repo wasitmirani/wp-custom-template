@@ -22,7 +22,7 @@
                                             Tietokone tuottaa hetkessä virtuaalistailattuja
                                             kuvia joista pääset valitsemaan parhaimman
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border"> Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
+                                        <a href="#" class="rts-btn btn-border"> Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
                                     </div>
                                     <!-- banner content two inner area end -->
                                 </div>
@@ -48,7 +48,7 @@
                                             Uskomme, että hyvin suunnitellulla tilalla on voima muuttaa elämää, herättää tunteita,
                                             ja lisää kokemuksia. Tiimimme lahjakkaita suunnittelijoita.
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">
+                                        <a href="#" class="rts-btn btn-border">
                                             Aloita stailaus <i class="fa-regular fa-arrow-right"></i>
                                         </a>
                                     </div>
@@ -77,7 +77,7 @@
                                               Uskomme, että hyvin suunnitellulla tilalla on voima muuttaa elämää, herättää tunteita,
                                             ja lisää kokemuksia. Tiimimme lahjakkaita suunnittelijoita.
                                         </p>
-                                        <a href="portfolio-grid-col-4.html" class="rts-btn btn-border">Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
+                                        <a href="#" class="rts-btn btn-border">Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
                                     </div>
                                     <!-- banner content two inner area end -->
                                 </div>
@@ -294,9 +294,12 @@
     <div class="rts-about-area rts-section-gap bg-light">
         <div class="container">
             <div class="row align-items-center">
+         
                 <div class="col-lg-6">
+            
+                <span class="pre-title">Ennen</span>
                     <div class="thumbnail-image">
-                        <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/03.png" alt="about">
+                        <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/before.jpg" alt="about">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -304,6 +307,7 @@
                         <div class="title-left-style-two">
                             <div class="pre-title">
                                 <span class="pre-title">Virtuaalinen Stailaus</span>
+                               
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/02.png" alt="service">
                             </div>
                             <h2 class="title quote">
@@ -316,6 +320,9 @@
                         Välittömiä tuloksia: Toimitus jopa minuutissa Edullisempi hinta: Saa kuvat jopa yli 10x halvemmalla Parempi valikoima: Voit valita mielestäsi sopivan kuvan. 
                         </p>
                         <div class="about-in-image rts-reveal-one">
+                        <div class="pre-title">
+                        <span class="pre-title">Jälkeen</span>
+                                            </div>
                             <img class="rts-reveal-image-one" src="<?php echo get_template_directory_uri(); ?> /assets/images/about/04.jpg" alt="about">
                         </div>
                         <div class="bottom-image-title mt--20">
@@ -328,8 +335,8 @@
                             <div class="contact-information">
                                 <i class="fa-solid fa-phone"></i>
                                 <div class="information">
-                                    <span>Call Us 24/7</span>
-                                    <a href="Tel:1234567890">+236-3256.21456</a>
+                                    <span>Soita meille 24/7</span>
+                                    <a href="Tel:+3580451608131">+236-3256.21456</a>
                                 </div>
                             </div>
                         </div>
@@ -350,17 +357,16 @@
                     <div class="why-choose-us-left-two">
                         <div class="title-left-style-two">
                             <div class="pre-title">
-                                <span class="pre-title">Why Choose Us</span>
+                                <span class="pre-title">Miksi valita meidät</span>
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/07.png" alt="service">
                             </div>
                             <h2 class="title quote">
-                                Exceptional standard of <br>
-                                customer satisfaction
+                            virtuaalinen lavastus <br>
+                            algoritmi
                             </h2>
                         </div>
                         <p class="disc">
-                            Choosing interior design services offers numerous benefits. Here are a few reasons why you
-                            should consider working with professional interior designers:
+                            Maailman ensimmäinen tekoälyllä toimiva virtuaalinen lavastusalgoritmi.
                         </p>
                     </div>
                     <!-- why chooseus section end -->
@@ -372,10 +378,9 @@
                                     <img src="<?php echo get_template_directory_uri(); ?> /assets/images/why-choose/01.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Expertise and Experience</h6>
+                                    <h6 class="title">Nopein käänne</h6>
                                     <p class="disc">
-                                        Interior designers possess the
-                                        skills create well-designed.
+                                    Kehittyneen tekoälymme ansiosta saat virtuaalisesti lavastettuja kuviasi 10 sekunnissa. Ei enää suunnittelijoiden odottelua.
                                     </p>
                                 </div>
                             </div>
@@ -388,9 +393,9 @@
                                     <img src="<?php echo get_template_directory_uri(); ?> /assets/images/why-choose/02.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Innovative Solutions</h6>
+                                    <h6 class="title">Ei vaivaa</h6>
                                     <p class="disc">
-                                        Interior designers are trained to think creatively and come.
+                                    Tarkkoja ohjeita suunnittelijoille ei enää tarvitse kirjoittaa. Lataa vain kuvasi, valitse huonetyyppi ja tyyli, niin tekoäly lisää automaattisesti kauniita, realistisen näköisiä huonekaluja.
                                     </p>
                                 </div>
                             </div>
@@ -403,9 +408,9 @@
                                     <img src="<?php echo get_template_directory_uri(); ?> /assets/images/why-choose/03.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Time and Cost Efficiency</h6>
-                                    <p class="disc">
-                                        Hiring an interior designer can save you time and money.
+                                    <h6 class="title">Alin hinta</h6>
+                                    <p class="disc">       
+                                        Alkaen vain 12 dollarista kuukaudessa, voit näyttää käytännössä 6 kuvaa. Se on halvempaa kuin mitä useimmat virastot veloittaa yhdestä kuvasta
                                     </p>
                                 </div>
                             </div>
@@ -418,10 +423,10 @@
                                     <img src="<?php echo get_template_directory_uri(); ?> /assets/images/why-choose/04.png" alt="choose_icon">
                                 </div>
                                 <div class="right-content">
-                                    <h6 class="title">Value Enhancement
+                                    <h6 class="title">Rajoittamaton versio
                                     </h6>
                                     <p class="disc">
-                                        Well-designed interiors can us significantly enhance value.
+                                    Oliko jotain muuta mielessä? Sen sijaan, että joutuisit pyörimään edestakaisin suunnittelijan kanssa, hanki lisää malleja muutamassa sekunnissa.
                                     </p>
                                 </div>
                             </div>
@@ -471,14 +476,13 @@
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/07.png" alt="service">
                             </div>
                             <h2 class="title quote">
-                                Explore our Amazing <br>
-                                Interior Project
+                            Tiesitkö tätä? <br>
+                                
                             </h2>
                         </div>
                         <p class="disc">
-                            Our interior design project revolves around transforming a residential space <br> into a
-                            modern
-                            and inviting oasis. With a focus on functionality and aesthetics.
+                        Kalustetut asunnot herättävät enemmän kiinnostusta ostajissa.<br>
+                         Tämän seurauksena kalustetut asunnot menevät nopeammin kaupaksi.
                         </p>
                         <div class="pagination-left-banner-one">
                             <div class="activeslide">01</div>
@@ -498,21 +502,21 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="single-product-wrapper-two">
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="#" class="thumbnail">
                                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/product/05.jpg" alt="product">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-product-wrapper-two">
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="#" class="thumbnail">
                                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/product/15.jpg" alt="product">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-product-wrapper-two">
-                                        <a href="product-details-1.html" class="thumbnail">
+                                        <a href="#" class="thumbnail">
                                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/product/16.jpg" alt="product">
                                         </a>
                                     </div>
@@ -527,8 +531,8 @@
                                     <div class="swiper-slide">
                                         <!-- single outer text -->
                                         <div class="outer-product-text">
-                                            <a href="product-details-1.html">
-                                                <h2 class="title-change-one">living room <span>interior</span></h2>
+                                            <a href="#">
+                                                <h2 class="title-change-one">olohuone <span>sisätilat</span></h2>
                                             </a>
                                         </div>
                                         <!-- single outer text end -->
@@ -536,8 +540,8 @@
                                     <div class="swiper-slide">
                                         <!-- single outer text -->
                                         <div class="outer-product-text">
-                                            <a href="product-details-1.html">
-                                                <h2 class="title-change-one">Kitchen room <span>interior</span></h2>
+                                            <a href="#">
+                                                <h2 class="title-change-one">Keittiö <span>sisätilat</span></h2>
                                             </a>
                                         </div>
                                         <!-- single outer text end -->
@@ -545,8 +549,8 @@
                                     <div class="swiper-slide">
                                         <!-- single outer text -->
                                         <div class="outer-product-text">
-                                            <a href="product-details-1.html">
-                                                <h2 class="title-change-one">Bathroom room <span>interior</span></h2>
+                                            <a href="#">
+                                                <h2 class="title-change-one">Kylpyhuone <span>sisätilat</span></h2>
                                             </a>
                                         </div>
                                         <!-- single outer text end -->
@@ -565,48 +569,7 @@
     <!-- our projects area  end -->
 
     <!-- rts counter up area start -->
-    <div class="rts-counterup-area-start rts_jump_counter__animation">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="counter-main-wrapper-two counter_animation">
-                        <!-- ingle counter up -->
-                        <div class="counter-single counter__anim">
-                            <div class="inner">
-                                <h2 class="title"><span class="counter">362</span>k</h2>
-                                <p>Award Winning</p>
-                            </div>
-                        </div>
-                        <!-- ingle counter up end -->
-                        <!-- ingle counter up -->
-                        <div class="counter-single counter__anim">
-                            <div class="inner">
-                                <h2 class="title"><span class="counter">106</span>+</h2>
-                                <p>Project Done</p>
-                            </div>
-                        </div>
-                        <!-- ingle counter up end -->
-                        <!-- ingle counter up -->
-                        <div class="counter-single counter__anim">
-                            <div class="inner">
-                                <h2 class="title"><span class="counter">120</span>+</h2>
-                                <p>Award Winning</p>
-                            </div>
-                        </div>
-                        <!-- ingle counter up end -->
-                        <!-- ingle counter up -->
-                        <div class="counter-single counter__anim">
-                            <div class="inner">
-                                <h2 class="title"><span class="counter">101</span>k</h2>
-                                <p>Year Experience</p>
-                            </div>
-                        </div>
-                        <!-- ingle counter up end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <!-- rts counter up area end -->
 
     <!-- tesatimonais area start -->
@@ -617,12 +580,12 @@
                     <div class="testimonials-left-main-wrapper-two">
                         <div class="title-left-style-two">
                             <div class="pre-title">
-                                <span class="pre-title">Testimonials</span>
+                                <span class="pre-title">Suositukset</span>
                                 <img src="<?php echo get_template_directory_uri(); ?> /assets/images/service/07.png" alt="service">
                             </div>
                             <h2 class="title quote">
-                                Amazing feedback from <br>
-                                Our valued clients
+                                Hämmästyttävää palautetta <br>
+                                Arvostetut asiakkaamme
                             </h2>
                         </div>
                         <!-- testimonials amain review area stat -->
@@ -633,10 +596,10 @@
                                     <img src="<?php echo get_template_directory_uri(); ?> /assets/images/testimonials/03.png" alt="testimonials">
                                 </div>
                                 <p class="disc">
-                                    Working with your team was an absolute pleasure. From the initial concept to the
-                                    final installation, every step was executed with professionalism and attention to
-                                    detail. The end result exceeded our expectations, and couldn't be happier with our
-                                    beautifully transformed space.
+                                      Työskentely tiimisi kanssa oli ehdotonta iloa. Alkukonseptista aina
+                                    lopullisessa asennuksessa jokainen vaihe suoritettiin ammattitaidolla ja huolellisesti
+                                    yksityiskohta. Lopputulos ylitti odotuksemme, eikä olisi voinut olla tyytyväisempi
+                                    kauniisti muunnettu tila.
                                 </p>
                                 <div class="bottom-testimonials">
                                     <div class="rating-artea-two">
@@ -647,13 +610,13 @@
                                             <i class="fa-solid fa-star"></i>
                                             <i class="fa-solid fa-star"></i>
                                         </div>
-                                        <span>4.8 out of 5.0</span>
+                                        <span>4.8 ulos 5.0</span>
                                     </div>
                                     <div class="author-rating-area">
                                         <img src="<?php echo get_template_directory_uri(); ?> /assets/images/testimonials/02.png" alt="author">
                                         <div class="information">
                                             <p>John William</p>
-                                            <span>New Client</span>
+                                            <span>Uusi asiakas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -666,7 +629,7 @@
                 <div class="col-lg-6 mt_md--50 mt_sm--50">
                     <div class="thumbnail-testimonials-2">
                         <div class="rts-reveal-one">
-                            <img class=" rts-reveal-image-one" src="assets/images/testimonials/05.jpg" alt="testimonails">
+                            <img class=" rts-reveal-image-one" src=" <?php echo get_template_directory_uri(); ?> /assets/images/testimonials/05.jpg" alt="testimonails">
                         </div>
                     </div>
                 </div>
@@ -676,119 +639,11 @@
     <!-- tesatimonais area end -->
 
     <!-- rts brand area start3 -->
-    <div class="rts-brand-area ptb--100 bg-light">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="titlte-brand-small">
-                        <p> 200+ Our Awesome global client</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="brand-area-wrapper-one">
-                        <!-- single branbd area -->
-                        <a href="#" class="single-brand">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/brand/01.png" alt="brand">
-                        </a>
-                        <!-- single branbd area end -->
-                        <!-- single branbd area -->
-                        <a href="#" class="single-brand">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/brand/02.png" alt="brand">
-                        </a>
-                        <!-- single branbd area end -->
-                        <!-- single branbd area -->
-                        <a href="#" class="single-brand">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/brand/03.png" alt="brand">
-                        </a>
-                        <!-- single branbd area end -->
-                        <!-- single branbd area -->
-                        <a href="#" class="single-brand">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/brand/04.png" alt="brand">
-                        </a>
-                        <!-- single branbd area end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  
     <!-- rts brand area end -->
 
     <!-- rts blog area start -->
-    <div class="rts-blog-area rts-section-gapTop">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-center">
-                        <div class="pre-title-area">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Our Blog</span>
-                        </div>
-                        <h2 class="title quote">Latest News and Updates <br>
-                            in Interior Design</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-24 rts-slide-up mt--30">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/blog/01.jpg" alt="blog">
-                            <span class="tag">Architecture</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    The Retro Outdoor Furniture Set
-                                    That’s Like Grandma’s—But Better
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/blog/02.jpg" alt="blog">
-                            <span class="tag">Office Desk</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    The Art of Mindful Parenting: Finding Balance and Joy
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single blog area start -->
-                    <div class="signle-blog-style-one">
-                        <a href="blog-details.html" class="thumbnail">
-                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/blog/03.jpg" alt="blog">
-                            <span class="tag">Interior</span>
-                        </a>
-                        <div class="inner-content">
-                            <a href="blog-details.html">
-                                <h5 class="title">
-                                    Unlocking Creativity: 10 Exercises to Inspire Your Imagination
-                                </h5>
-                            </a>
-                            <a class="btn-blog-readmore" href="blog-details.html"> Read More +</a>
-                        </div>
-                    </div>
-                    <!-- single blog area end -->
-                </div>
-            </div>
-        </div>
-    </div>
+ 
     <!-- rts blog area end -->
 
     <!-- rts cta area stat -->
@@ -799,12 +654,12 @@
                     <div class="title-style-center cta-wrapper-two">
                         <div class="pre-title-area">
                             <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Work With Us</span>
+                            <span class="pre-title">Työskentele kanssamme</span>
                         </div>
-                        <h2 class="title quote"><span>We are</span> excited to learn <br>
-                            more about <span>your project</span></h2>
+                        <h2 class="title quote"><span>Me olemme</span> innostunut oppimaan <br>
+                        lisää <span>sinun projektisi</span></h2>
 
-                        <a href="contact.html" class="rts-btn btn-border">Read More <i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="#" class="rts-btn btn-border">Aloita stailaus <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

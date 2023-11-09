@@ -7,13 +7,12 @@
                 <div class="col-lg-12">
                     <div class="title-style-center">
                         <div class="pre-title-area">
-                            <img src="assets/images/about/02.png" alt="about">
-                            <span class="pre-title">Our Service</span>
+                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/about/02.png" alt="about">
+                            <span class="pre-title">Hinnasto</span>
                         </div>
-                        <h2 class="title">Our Services</h2>
+                        <h2 class="title">Hinnasto</h2>
                         <p class="disc">
-                            we are proud to have a dedicated and skilled team of professionals <br>
-who are passionate about interior renovation and design.
+                        Kaupaxilla maksat vain kuukausittaista palvelumaksua, joka kattaa yrityksesi stailauksen ja virtuaalisen kalustamisen tarpeen mukaan. Ota yhteyttä, niin suunnittelen teille sopivan ratkaisun.
                         </p>
                     </div>
                 </div>
@@ -220,7 +219,7 @@ who are passionate about interior renovation and design.
                 <div class="col-lg-12">
                     <div class="title-style-center">
                         <div class="pre-title-area">
-                            <img src="assets/images/about/02.png" alt="about">
+                            <img src="<?php echo get_template_directory_uri(); ?>  /assets/images/about/02.png" alt="about">
                             <span class="pre-title">Work with us</span>
                         </div>
                         <h2 class="title">Have a Project in mind? <br>
